@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="rpldc"
+                 name="RGPD pour les développeurs CDA"
+                 start-page="module-01-00.md">
+
+    <toc-element topic="module-01-00.md">
+        <toc-element topic="module-01-01.md"/>
+        <toc-element topic="module-01-02.md"/>
+        <toc-element topic="module-01-03.md"/>
+        <toc-element topic="module-01-04.md"/>
+        <toc-element topic="module-01-98-TP.md"/>
+        <toc-element topic="module-01-99-conclusion.md"/>
+    </toc-element>
+    <toc-element topic="module-02-00.md">
+        <toc-element topic="module-02-01.md"/>
+        <toc-element topic="module-02-02.md"/>
+        <toc-element topic="module-02-03.md"/>
+        <toc-element topic="module-02-98-TP.md"/>
+        <toc-element topic="module-02-99-conclusion.md"/>
+    </toc-element>
+
+    <toc-element topic="module-03-00.md">
+        <toc-element topic="module-03-01.md"/>
+        <toc-element topic="module-03-02.md"/>
+        <toc-element topic="module-03-03.md"/>
+        <toc-element topic="module-03-98-TP.md"/>
+        <toc-element topic="module-03-99-conclusion.md"/>
+    </toc-element>
+
+    <toc-element topic="module-04-00.md">
+        <toc-element topic="module-04-01.md"/>
+        <toc-element topic="module-04-02.md"/>
+        <toc-element topic="module-04-03.md"/>
+        <toc-element topic="module-04-04.md"/>
+        <toc-element topic="module-04-98-TP.md"/>
+        <toc-element topic="module-04-99-conclusion.md"/>
+    </toc-element>
+
+    <toc-element topic="module-05-00.md">
+        <toc-element topic="module-05-01.md"/>
+        <toc-element topic="module-05-02.md"/>
+        <toc-element topic="module-05-03.md"/>
+        <toc-element topic="module-05-04.md"/>
+        <toc-element topic="module-05-98-TP.md"/>
+        <toc-element topic="module-05-99-conclusion.md"/>
+    </toc-element>
+
+    <toc-element topic="module-06-00.md">
+        <toc-element topic="module-06-01.md"/>
+        <toc-element topic="module-06-02.md"/>
+        <toc-element topic="module-06-03.md"/>
+        <toc-element topic="module-06-98-TP.md"/>
+        <toc-element topic="module-06-99-conclusion.md"/>
+    </toc-element>
+</instance-profile>
